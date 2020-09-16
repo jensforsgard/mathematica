@@ -20,3 +20,7 @@ Available as a notebook (Discriminants.nb) and as a package (Discriminants.m).
 
 
 ## DimerModels
+
+Functions to generate dimer model associated with a given characteristic polygon. Multiple examples are available in the notebook.
+
+Available as a notebook (DimerModels.nb) and as a package (DimerModels.m).
